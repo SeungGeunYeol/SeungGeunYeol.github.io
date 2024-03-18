@@ -689,8 +689,8 @@ section {
   margin-bottom: 20px;
 }
 
-.portfolio-details .portfolio-description p {
-  padding: 0;
+.portfolio-details .portfolio-description ul {
+  padding-left: 20px;
 }
 
 /*--------------------------------------------------------------
